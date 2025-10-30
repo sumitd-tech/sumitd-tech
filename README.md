@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Deshmukh (@sumitd-tech)
 
-<!--
-**sumitd-tech/sumitd-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+IT student passionate about AR/VR development, Data Science, and innovative technology. Currently studying at **K.K. Wagh Institute of Engineering Education & Research** in Nashik, India.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- **Programming Languages:** Python, Java
+- **Game Development:** Unity (AR/VR)
+- **Data Science:** Machine Learning, Data Analysis, Jupyter Notebooks
+- **Tools & Technologies:** Git, GitHub, Various Development Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎯 VOIS AICTE Major Project
+Comprehensive project showcasing advanced technical skills and real-world application development.
+
+### 🎮 Unity Game Development
+- **Flappy Bird** - Classic game recreation with modern mechanics
+- **Truck Game** - Interactive simulation game
+
+### 📊 Data Science & Analysis
+Working with Jupyter Notebooks for data analysis and machine learning projects.
+
+## 🌱 Current Focus
+- Expanding expertise in AR/VR development
+- Deepening knowledge in Data Science and Machine Learning
+- Contributing to open-source projects
+- Building innovative solutions with emerging technologies
+
+## 📫 Connect With Me
+- **Email:** sjdeshmukh371322@kkwagh.edu.in
+- **GitHub:** [@sumitd-tech](https://github.com/sumitd-tech)
+- **Location:** Nashik, India
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitd-tech&show_icons=true&theme=radical)
+
+---
+💡 *Open to collaboration on innovative projects in AR/VR, Data Science, and Game Development!*
