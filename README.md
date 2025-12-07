@@ -28,9 +28,9 @@ Working with Jupyter Notebooks for data analysis and machine learning projects.
 - Building innovative solutions with emerging technologies
 
 ## 📫 Connect With Me
-- **Email:** sjdeshmukh371322@kkwagh.edu.in
+- **Email:** sjdeshmukh33@gmail.com
 - **GitHub:** [@sumitd-tech](https://github.com/sumitd-tech)
-- **Location:** Nashik, India
+  
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitd-tech&show_icons=true&theme=radical)
