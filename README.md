@@ -1,9 +1,16 @@
 # Hi, I'm Sumit Deshmukh (@sumitd-tech)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Software+Developer;Building+Intelligent+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 ##  About Me
 Aspiring AI/ML Engineer and Software Developer passionate about building impactful technology solutions. I work on projects involving machine learning, intelligent systems, backend development, and modern software applications.
 
 I enjoy learning new technologies, developing real-world projects, and improving my skills in software engineering and problem-solving.
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="500"
+  />
+</p>
 
 ##  Technical Skills
 
@@ -12,6 +19,11 @@ I enjoy learning new technologies, developing real-world projects, and improving
 - **Software Development:** Full-Stack Development, REST APIs
 - **Tools & Technologies:** Git, GitHub, Jupyter Notebook
 - **Core Concepts:** Data Structures & Algorithms, OOP, DBMS
+
+
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,nodejs,react,git,github,mongodb,vscode" />
+</p>
 
 ##  Featured Projects
 
@@ -39,13 +51,12 @@ Developing modern web applications and backend systems while exploring scalable 
 - Building real-world scalable applications
 - Contributing to open-source and collaborative projects
 
-## 📫 Connect With Me
+##  Connect With Me
 - **Email:** sjdeshmukh33@gmail.com
 - **GitHub:** [@sumitd-tech](https://github.com/sumitd-tech)
   
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitd-tech&show_icons=true&theme=radical)
-
+##  GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=sumitd-tech&theme=tokyonight)
 ---
  *Open to collaborations and opportunities in AI/ML, Software Development, and innovative technology projects!*
