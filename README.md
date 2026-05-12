@@ -1,31 +1,43 @@
-# 👋 Hi, I'm Sumit Deshmukh (@sumitd-tech)
+# Hi, I'm Sumit Deshmukh (@sumitd-tech)
 
-## 🎓 About Me
-IT student passionate about AR/VR development, Data Science, and innovative technology. Currently studying at **K.K. Wagh Institute of Engineering Education & Research** in Nashik, India.
+##  About Me
+Aspiring AI/ML Engineer and Software Developer passionate about building impactful technology solutions. I work on projects involving machine learning, intelligent systems, backend development, and modern software applications.
 
-## 💻 Technical Skills
-- **Programming Languages:** Python, Java
-- **Game Development:** Unity (AR/VR)
-- **Data Science:** Machine Learning, Data Analysis, Jupyter Notebooks
-- **Tools & Technologies:** Git, GitHub, Various Development Frameworks
+I enjoy learning new technologies, developing real-world projects, and improving my skills in software engineering and problem-solving.
 
-## 🚀 Featured Projects
+##  Technical Skills
 
-### 🎯 VOIS AICTE Major Project
-Comprehensive project showcasing advanced technical skills and real-world application development.
+- **Programming Languages:** Python, JavaScript
+- **AI/ML:** Machine Learning, NLP, Data Analysis
+- **Software Development:** Full-Stack Development, REST APIs
+- **Tools & Technologies:** Git, GitHub, Jupyter Notebook
+- **Core Concepts:** Data Structures & Algorithms, OOP, DBMS
 
-### 🎮 Unity Game Development
-- **Flappy Bird** - Classic game recreation with modern mechanics
-- **Truck Game** - Interactive simulation game
+##  Featured Projects
 
-### 📊 Data Science & Analysis
-Working with Jupyter Notebooks for data analysis and machine learning projects.
+###  LLM Response Evaluation Pipeline
+Built a Python-based pipeline to evaluate the reliability and quality of AI-generated responses using automated scoring and validation techniques.
 
-## 🌱 Current Focus
-- Expanding expertise in AR/VR development
-- Deepening knowledge in Data Science and Machine Learning
-- Contributing to open-source projects
-- Building innovative solutions with emerging technologies
+### Student Dropout Prediction System
+Developing an AI-driven early warning system aligned with NEP 2020 to identify students at risk of dropping out and improve learning outcomes.
+
+###  Simulation-Based Learning Platform
+Developed a  interactive simulation experiences for technical learning and hands-on training using Unity and modern software technologies.
+
+### Full-Stack & Software Development Projects
+Developing modern web applications and backend systems while exploring scalable software architectures and real-world problem solving.
+
+###  Unity Game Development
+- **Flappy Bird** – Classic game recreation with custom gameplay mechanics  
+- **Truck Game** – Interactive simulation-based game project built using Unity
+  
+##  Current Focus
+
+- Advancing skills in AI/ML and Software Development
+- Strengthening Data Structures & Algorithms
+- Exploring Backend Development and System Design
+- Building real-world scalable applications
+- Contributing to open-source and collaborative projects
 
 ## 📫 Connect With Me
 - **Email:** sjdeshmukh33@gmail.com
@@ -36,4 +48,4 @@ Working with Jupyter Notebooks for data analysis and machine learning projects.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitd-tech&show_icons=true&theme=radical)
 
 ---
-💡 *Open to collaboration on innovative projects in AR/VR, Data Science, and Game Development!*
+ *Open to collaborations and opportunities in AI/ML, Software Development, and innovative technology projects!*
